@@ -8,7 +8,7 @@ This project focuses on analyzing housing features (square footage, number of ro
 ## 📌 Project Overview
 
 Accurately predicting house prices and identifying key value drivers is essential in real estate and financial analytics. In this notebook:
-* **Data Preprocessing:** Handling missing values, outlier detection, and encoding categorical variables (One-Hot / Label Encoding).
+* **Data Preprocessing:** Handling missing values, outlier detection.
 * **Exploratory Data Analysis (EDA):** Visualizing feature distributions, correlations, and key relationships with target house prices.
 * **Model Development:** Training multiple machine learning regression algorithms and evaluating their predictive performance.
 
